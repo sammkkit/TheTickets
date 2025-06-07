@@ -60,13 +60,13 @@ Follow these instructions to get a copy of the project up and running on your lo
 ## 📸 Screenshots
 Here are some screenshots showcasing the app:
 
-![Screenshot 1](screenshots/screenshot_tickets_1.png)  
-![Screenshot 2](screenshots/screenshot_tickets_2.png)  
-![Screenshot 3](screenshots/screenshot_ticekts_3.png)  
-![Screenshot 4](screenshots/screenshot_ticekts_4.png)  
-![Screenshot 5](screenshots/screenshot_ticekts_5.png)  
-![Screenshot 6](screenshots/screenshot_ticekts_6.png)  
-![Screenshot 7](screenshots/screenshot_ticekts_7.png)  
+![Screenshot 1](app/src/main/java/screenshots/screenshot_tickets_1.png)  
+![Screenshot 2](app/src/main/java/screenshots/screenshot_tickets_2.png)  
+![Screenshot 3](app/src/main/java/screenshots/screenshot_ticekts_3.png)  
+![Screenshot 4](app/src/main/java/screenshots/screenshot_ticekts_4.png)  
+![Screenshot 5](app/src/main/java/screenshots/screenshot_ticekts_5.png)  
+![Screenshot 6](app/src/main/java/screenshots/screenshot_ticekts_6.png)  
+![Screenshot 7](app/src/main/java/screenshots/screenshot_ticekts_7.png)  
 
 ---
 
