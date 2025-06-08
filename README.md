@@ -82,7 +82,5 @@ Contributions are welcome! If you have suggestions for improvements, new feature
 
 ---
 
-## 👤 Author
-
-Your Name / Your Username  
+## 👤 Author  
 [GitHub Profile](https://github.com/sammkkit) | [LinkedIn Profile](https://www.linkedin.com/in/samkit-jain-ba02a41b8/) 
